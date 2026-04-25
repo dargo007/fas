@@ -1,6 +1,0 @@
-{
-  "accounts": [
-    { "name": "akun1", "email": "email1@gmail.com", "address": "roots...::1220..." },
-    { "name": "akun2", "email": "email2@gmail.com", "address": "roots...::1220..." }
-  ]
-}
